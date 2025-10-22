@@ -1,5 +1,5 @@
 # Hi there 👋  
-I’m **Alro John** ([@AlroJohn](https://github.com/AlroJohn)) — a passionate developer based in Tagaytay, Philippines 🇵🇭.
+I’m **Alro John** ([@AlroJohn](https://github.com/AlroJohn)) — a passionate developer based in Bicol, Philippines 🇵🇭.
 
 ---
 
@@ -25,7 +25,7 @@ Here are a few highlights from what I’ve been building:
 - Project B — another description with interesting features.  
 - Project C — something you’re proud of or currently working on.
 
-*You can explore more in my [GitHub repositories](https://github.com/AlroJohn?tab=repositories).*
+
 
 ---
 
@@ -37,9 +37,9 @@ Here are a few highlights from what I’ve been building:
 ---
 
 ## 💬 Let’s Connect  
-I’m always open to collaborating on interesting projects or chatting about the latest tech trends.  
-- 📧 Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+## I’m always open to collaborating on interesting projects or chatting about the latest tech trends.  
+## - 📧 Email: your.email@example.com  
+## - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+## - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 Thanks for stopping by! Feel free to explore my work and let’s build something awesome together. 🚀  
